@@ -1,7 +1,7 @@
 Olá, tudo bem?
 
 - 💻 Atualmente trabalho na área de Ti
-- 📚 Estou estou cursando ADS
+- 📚 Estou cursando ADS
 - ✅ Inicio Front end
 - 🌏 inglês/espanhol intermidiário
 - 😄 Pronouns: Ele/dele
