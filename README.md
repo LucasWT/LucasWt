@@ -1,7 +1,6 @@
 Olá, tudo bem?
 
-- 💻 Atualmente trabalho na área de Ti
-- 📚 Estou cursando ADS
+- 💻 Production Engineer
 - ✅ Inicio Front end/ Back end
 - 🌏 inglês/espanhol intermediário
 - 😄 Pronouns: Ele/dele
